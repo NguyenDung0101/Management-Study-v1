@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f9002d16-375d-4170-aa73-909568609211)# Hệ Thống Quản Lý Học Tập Cá Nhân cho DungKiemTien
+# Hệ Thống Quản Lý Học Tập Cá Nhân cho DungKiemTien
 
 Đây là một website quản lý học tập cá nhân hiện đại, tối giản được thiết kế dành riêng cho DungKiemTien. Hệ thống cung cấp bảng điều khiển toàn diện với nhiều tính năng để theo dõi tiến độ học tập, quản lý nhiệm vụ và nâng cao năng suất.
 
