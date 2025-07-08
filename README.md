@@ -1,8 +1,8 @@
-# Hệ Thống Quản Lý Học Tập Cá Nhân cho DungKiemTien
+![image](https://github.com/user-attachments/assets/f9002d16-375d-4170-aa73-909568609211)# Hệ Thống Quản Lý Học Tập Cá Nhân cho DungKiemTien
 
 Đây là một website quản lý học tập cá nhân hiện đại, tối giản được thiết kế dành riêng cho DungKiemTien. Hệ thống cung cấp bảng điều khiển toàn diện với nhiều tính năng để theo dõi tiến độ học tập, quản lý nhiệm vụ và nâng cao năng suất.
 
-Link demo:
+Link demo: https://management-study-v1.vercel.app/
 ## Cấu trúc thư mục dự án
 
 Dưới đây là sơ đồ cây thư mục của dự án:
@@ -134,12 +134,23 @@ app/
    ```
 2. Cài đặt dependencies:
    ```bash
-   npm install
+   pnpm install
    ```
 3. Chạy server phát triển:
    ```bash
-   npm run dev
+   pnpm run dev
    ```
+## Ảnh demo
+Đăng nhập/ Đăng ký
+![image](https://github.com/user-attachments/assets/2409b48e-1b7d-4f43-b16a-a4e3617a9c74)
+Trang chủ
+![image](https://github.com/user-attachments/assets/dc46a4f0-86f6-4b8f-9a94-4826775b6f55)
+Lịch
+![image](https://github.com/user-attachments/assets/9785c672-bbb1-44bc-bdb1-6a0733568281)
+Nhiệm vụ:
+![image](https://github.com/user-attachments/assets/00d578cc-e706-4fbb-bb74-8b0dd2c91196)
+Nhật ký:
+![image](https://github.com/user-attachments/assets/d3f7cf93-9414-48f5-a2ca-3dc594f622ed)
 
 ## Hướng dẫn sử dụng
 - **Đăng nhập**: Tên người dùng: `DungKiemTien`, Mật khẩu: `Dung@112004` (với tùy chọn "Nhớ tôi")
